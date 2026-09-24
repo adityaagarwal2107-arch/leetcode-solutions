@@ -1,18 +1,43 @@
 {
   "v": 1,
-  "updatedAt": 1790241368090,
+  "updatedAt": 1790241545178,
   "devices": {
     "61a5eddf-772f-46f8-83af-851183b67b03": {
-      "lastSeen": 1790241367637
+      "lastSeen": 1790241544716
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "2": {
+      "attempts": 1,
+      "bestMemory": "46.7 MB (Beats 20%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-09-24",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-24",
+      "folderName": "0002-Add-Two-Numbers",
+      "language": "Java",
+      "number": 2,
+      "slug": "add-two-numbers",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "title": "Add Two Numbers",
+      "at": 1790241544716
+    }
+  },
+  "achievements": {
+    "first_blood": 1790241381392
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-09-24"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "05c625b0-658c-433c-b2bd-43402b25eca2",
