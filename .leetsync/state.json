@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791906168878,
+  "updatedAt": 1791906377399,
   "devices": {
     "61a5eddf-772f-46f8-83af-851183b67b03": {
-      "lastSeen": 1791906167690
+      "lastSeen": 1791906376585
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791906167690
+      "at": 1791906376585
+    },
+    "153": {
+      "attempts": 1,
+      "bestMemory": "44.3 MB (Beats 8%)",
+      "bestRuntime": "5 ms (Beats 2%)",
+      "date": "2026-10-13",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "0153-Find-Minimum-in-Rotated-Sorted-Array",
+      "language": "Java",
+      "number": 153,
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "title": "Find Minimum in Rotated Sorted Array",
+      "at": 1791906376585
     },
     "154": {
       "attempts": 1,
@@ -44,7 +63,7 @@
         "Binary Search"
       ],
       "title": "Find Minimum in Rotated Sorted Array II",
-      "at": 1791906167690
+      "at": 1791906376585
     },
     "704": {
       "attempts": 3,
@@ -63,7 +82,7 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1791906167690
+      "at": 1791906376585
     }
   },
   "achievements": {
@@ -73,11 +92,12 @@
   "days": [
     "2026-09-24",
     "2026-10-05",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 3
+    "longestStreak": 2,
+    "pushes": 4
   },
   "identity": {
     "installId": "05c625b0-658c-433c-b2bd-43402b25eca2",
