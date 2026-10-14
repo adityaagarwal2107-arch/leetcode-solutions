@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791995918500,
+  "updatedAt": 1791996082351,
   "devices": {
     "61a5eddf-772f-46f8-83af-851183b67b03": {
-      "lastSeen": 1791995917638
+      "lastSeen": 1791996076577
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1791995917638
+      "at": 1791996076577
     },
     "153": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Binary Search"
       ],
       "title": "Find Minimum in Rotated Sorted Array",
-      "at": 1791995917638
+      "at": 1791996076577
     },
     "154": {
       "attempts": 1,
@@ -63,7 +63,26 @@
         "Binary Search"
       ],
       "title": "Find Minimum in Rotated Sorted Array II",
-      "at": 1791995917638
+      "at": 1791996076577
+    },
+    "344": {
+      "attempts": 1,
+      "bestMemory": "48 MB (Beats 87%)",
+      "bestRuntime": "1 ms (Beats 21%)",
+      "date": "2026-10-14",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-14",
+      "folderName": "0344-Reverse-String",
+      "language": "Java",
+      "number": 344,
+      "slug": "reverse-string",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Reverse String",
+      "at": 1791996076577
     },
     "704": {
       "attempts": 3,
@@ -82,22 +101,24 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1791995917638
+      "at": 1791996076577
     }
   },
   "achievements": {
-    "first_blood": 1790241381392
+    "first_blood": 1790241381392,
+    "on_fire": 1791995935763
   },
   "sheets": {},
   "days": [
     "2026-09-24",
     "2026-10-05",
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 4
+    "longestStreak": 3,
+    "pushes": 5
   },
   "identity": {
     "installId": "05c625b0-658c-433c-b2bd-43402b25eca2",
